@@ -108,7 +108,7 @@ This evidence-based preparation timeline delivers:
 
 ### Advanced GenAI Preparation (Extended Study)
 - **[30-Day AI/ML Mastery Program](https://www.educatum.com/the-ai-ml-interview-playbook?p=1b355925845b81379a77e36b9875a226&pm=s)**
-- **[GenAI Implementation Immersion](https://www.educatum.com/genai-by-hand-llm-study-plan)**
+- **[GenAI by Hand - 5 Week Study Plan](https://www.educatum.com/genai-by-hand-llm-study-plan)**
 
 ### Research Acceleration Tools
 - **[NotebookLM](https://notebooklm.google/)**: AI-powered research synthesis platform
