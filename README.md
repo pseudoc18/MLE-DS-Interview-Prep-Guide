@@ -34,9 +34,9 @@ This evidence-based preparation timeline delivers:
   * **Blind 75**: Essential algorithmic patterns
   * **NeetCode 150**: Comprehensive interview coverage
   * **NeetCode 250**: Advanced technical preparation
-  * Features expert-level communication guidance particularly valuable for meta-style interviews
-  * Pattern-organized problem sets with detailed solution methodologies
-  * Interview communication protocol demonstrations alongside technical implementations
+  * Features excellent video explanations demonstrating how to verbalize your thought process during interviews (particularly valuable for Meta-style interviews)
+  * Problems organized by pattern with detailed solution walkthrough videos
+  * Teaches interview communication skills alongside technical solutions
 
 - **Additional Resources**:
   * **[LeetCode Company Targeting](https://leetcode.com/company/)**: Organization-specific problem sets
@@ -74,10 +74,10 @@ This evidence-based preparation timeline delivers:
 - **[Implementation-Focused Interview Questions](https://www.educatum.com/ai-ml-interview-questions-classic)**
 - **[MLE Concept Flashcards](https://github.com/b7leung/MLE-Flashcards)**
 
-### Quantitative Data Science
+### Data Science
 - **[Probability Reference Materials](https://github.com/wzchen/probability_cheatsheet)**
 - **[Data Science Technical Framework](https://github.com/khanhnamle1994/cracking-the-data-science-interview?tab=readme-ov-file)**
-- **[Data Science Interview Preparation](https://qualified.one/books/ace-the-data-science-interview/)** (Singh & Huo, 2021)
+- **[Ace the Data Science Interview](https://qualified.one/books/ace-the-data-science-interview/)** (Singh & Huo, 2021)
   * Comprehensive technical and behavioral preparation methodology
 
 - **Experimentation & Statistical Inference**
