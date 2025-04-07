@@ -118,7 +118,7 @@ This evidence-based preparation timeline delivers:
 - **[AI-Enhanced Resume Development](https://bugfree.ai/resume)**
   * Algorithmic keyword alignment with position specifications
 
-## 🎬 Interview Simulation & Assessment
+## 🎬 Interview Mock & Assessment
 - **[HelloInterview Platform](https://www.hellointerview.com/)**
 - **[ML System Design Evaluation](https://www.meetapro.com/explore?q=machine&utm_source=redditexperienceddevs)**
 
