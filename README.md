@@ -41,7 +41,7 @@ This evidence-based preparation timeline delivers:
 - **Additional Resources**:
   * **[LeetCode Company Targeting](https://leetcode.com/company/)**: Organization-specific problem sets
   * **[Bugfree.ai](https://bugfree.ai)**: Solution pattern analysis and optimization techniques
-  * **[Spaced Repetition System](https://github.com/ayorgo/leetcode-neetcode-anki)**: Algorithmic pattern reinforcement
+  * **[Flashcards](https://github.com/ayorgo/leetcode-neetcode-anki)**: Algorithmic questions review anytime and anywhere
 
 - **Data Manipulation Proficiency** (Optional):
   * **[SQL/Pandas Mastery](https://leetcode.com/studyplan/top-sql-50/)**
@@ -72,7 +72,7 @@ This evidence-based preparation timeline delivers:
 ### Machine Learning Fundamentals
 - **[Comprehensive ML Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/)**
 - **[Implementation-Focused Interview Questions](https://www.educatum.com/ai-ml-interview-questions-classic)**
-- **[MLE Concept Reinforcement System](https://github.com/b7leung/MLE-Flashcards)**
+- **[MLE Concept Flashcards](https://github.com/b7leung/MLE-Flashcards)**
 
 ### Quantitative Data Science
 - **[Probability Reference Materials](https://github.com/wzchen/probability_cheatsheet)**
