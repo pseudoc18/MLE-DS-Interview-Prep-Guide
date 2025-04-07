@@ -13,114 +13,97 @@ This evidence-based preparation timeline delivers:
 - **Progressive Skill Development** from foundational to specialized expertise
 - **Application Timing Optimization** aligned with your preparation lifecycle
 - **Continuous Improvement Methodology** leveraging early interview experiences
+## 💻 Part 1: Coding
 
-## 💻 Section I: Algorithmic Problem-Solving
+### Data Structure and Algorithms Problems
 
-### Data Structures & Algorithms
+#### Concepts Review
+- [AlgoMonster](https://algo.monster/dashboard) - Pattern-based algorithm interview preparation
+  * **[Keyword to Algorithm Guide](https://algo.monster/problems/keyword_to_algo)**: Learn to map problem descriptions to appropriate solution techniques
+  * **[Algorithm Templates](https://algo.monster/templates)**: Reusable code frameworks for common patterns like binary search, BFS/DFS, and dynamic programming
 
-#### Core Learning Resources
-- **[AlgoMonster](https://algo.monster/dashboard)**: Pattern-based algorithmic preparation
-  * **Pattern Recognition Framework**: [Keyword-to-Algorithm Mapping](https://algo.monster/problems/keyword_to_algo)
-  * **Implementation Templates**: [Reusable Algorithm Structures](https://algo.monster/templates)
-
-- **[HelloInterview](https://www.hellointerview.com/learn/code)**: Visual algorithmic comprehension platform
-  * **Dynamic Visualizations**: Real-time algorithm execution demonstrations
-  * **Company-Specific Question Sets**: Targeted preparation by organization
-  * Comprehensive step-by-step walkthroughs with interactive visualization
-  * Core algorithm patterns with industry-specific implementation contexts
-
-####  Coding Problem Selection
-- **[NeetCode](https://neetcode.io/practice)**
-  * **Blind 75**: Essential algorithmic patterns
-  * **NeetCode 150**: Comprehensive interview coverage
-  * **NeetCode 250**: Advanced technical preparation
+- [HelloInterview](https://www.hellointerview.com/learn/code) - Visual algorithm learning platform
+  * **Interactive Visualizations**: Animated walkthroughs showing algorithm execution in real-time
+  * **Curated Key Questions**: Essential interview problems tagged by company and difficulty level
+  * Features comprehensive step-by-step explanations with visual aids for complex algorithms
+  * Covers core patterns like tree traversals, dynamic programming, and graph algorithms with visual clarity
+  * Includes solution approaches and common techniques used at top tech companies
+#### Coding Questions List
+- [NeetCode 150](https://neetcode.io/practice) - Curated list of essential LeetCode problems
+  * **Blind 75**: Core problems for essential patterns
+  * **NeetCode 150**: Comprehensive coverage for most interviews
+  * **NeetCode 250**: Advanced preparation for top tech companies
   * Features excellent video explanations demonstrating how to verbalize your thought process during interviews (particularly valuable for Meta-style interviews)
   * Problems organized by pattern with detailed solution walkthrough videos
   * Teaches interview communication skills alongside technical solutions
-
-- **Additional Resources**:
-  * **[LeetCode Company Targeting](https://leetcode.com/company/)**: Organization-specific problem sets
-  * **[Bugfree.ai](https://bugfree.ai)**: Solution pattern analysis and optimization techniques
-  * **[Flashcards](https://github.com/ayorgo/leetcode-neetcode-anki)**: Algorithmic questions review anytime and anywhere
-
-- **Data Manipulation Proficiency** (Optional):
-  * **[SQL/Pandas Mastery](https://leetcode.com/studyplan/top-sql-50/)**
-
+- [LeetCode Company Tags](https://leetcode.com/company/) - Filter problems by company
+- [Bugfree.ai](bugfree.ai) - Platform specializing in debugging LeetCode solutions and summarizing optimal approaches by question type, helping users understand algorithmic patterns and common pitfalls while providing concise explanations of efficient solutions for technical interviews
+- [Flashcard](https://github.com/ayorgo/leetcode-neetcode-anki) - Review Leetcode anywhere and any time
+- Data manipulation (Optional)
+  * [Pandas/SQL](https://leetcode.com/studyplan/top-sql-50/)
 ### Machine Learning Coding
-- **[DeepML](https://www.deep-ml.com/)**: Interactive ML implementation platform
-  * Real-time feedback interface with concept-organized challenges
+- [DeepML](https://www.deep-ml.com/) - Interactive platform for learning and practicing machine learning concepts from scratch
+  * Features a LeetCode-style interface for immediate feedback and testing
+  * Problems organized by difficulty level and concept categories
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Comprehensive collection of machine learning algorithms implemented from scratch in Python
+- [Practice ML Collection](https://github.com/xbeat/Machine-Learning) - Extensive compilation of ML implementations and code examples for practical applications
+  * **Pros**: Excellent resource for practical ML implementation in startup environments
+  * **Cons**: Lacks clear categorization, requiring specific keyword searches to find relevant content such as pytorch, EDA, machine learning, data cleaning, neural network, outlier detection, etc.
 
-- **[ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)**: Algorithm implementation repository
-  * Foundational implementations with detailed mathematical derivations
+## 🧠 Part 2: Machine Learning Design
+- **Machine Learning System Design Interview** - Alex Xu, Zhe Li, Dinghan Shen (ByteByteGo, 2021) - Comprehensive guide for ML system design interviews covering essential concepts and frameworks for designing scalable ML systems in production. [Amazon](https://www.amazon.com/Machine-Learning-System-Design-Interview/dp/1736049127/)
+  * Read Through all reference links after every session. 
+- [ML Design Mock](https://www.meetapro.com/explore?q=machine&utm_source=redditexperienceddevs) - Get feedback from real FANNG comapnies.
+- [500 ML Design Cases by Evidently](https://www.evidentlyai.com/ml-system-design)
+  * Real-world ML and LLM systems
 
-- **[Practical ML Collection](https://github.com/xbeat/Machine-Learning)**: Applied implementation examples
-  * Extensive industrial implementation examples (requires specific search queries)
+## 📚 Part 3: ML/Deep Learning/genAI Concepts
 
-## 🧠 Section II: Machine Learning System Design
+### Machine Learning
+- [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/)
+- [ML Interview Questions with Code](https://www.educatum.com/ai-ml-interview-questions-classic)
+- [MLE Flashcard](https://github.com/b7leung/MLE-Flashcards)
+### Data science
+- [Probability Cheatsheets](https://github.com/wzchen/probability_cheatsheet)
+- [Data Science Cheatsheets](https://github.com/khanhnamle1994/cracking-the-data-science-interview?tab=readme-ov-file)
+- **Ace the Data Science Interview** Nick Singh & Kevin Huo (2021) - Comprehensive guide covering SQL, statistics, probability, ML, and product metrics with 201 interview questions and solutions to help data scientists prepare effectively for technical and behavioral interviews. [Website](https://qualified.one/books/ace-the-data-science-interview/)
+- **A/B Testing**
+  * [A Summary of Udacity A/B Testing Course](https://medium.com/data-science/a-summary-of-udacity-a-b-testing-course-9ecc32dedbb1)
+  * [Experimentation Paper](https://github.com/jgamper/experimentation-resources)
+- **Causal Inference**
+  * [Causal Inference Paper](https://github.com/matthewvowels1/Awesome-Causal-Inference)
+  * [Causal Inference 101 Video](https://www.youtube.com/watch?v=Od6oAz1Op2k&list=PLTl9hO2Oobd-fjdLwLiIm5jbAkTv2bBPE)
+### LLM/genAI
+- [LLM Interview Questions](https://www.educatum.com/llm-and-genai-advanced-interview-questions)
+- [Hands-On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+- [AI Flashcard](https://aiflashcards.com/)
+#### Transformer
+- [Transformer Math](https://blog.eleuther.ai/transformer-math/)
+- [Transformer from Scrach](https://github.com/jsbaan/transformer-from-scratch)
+- **Transformers Explained Visually** 
+  * [Part1](https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452/) 
+  * [Part2](https://towardsdatascience.com/transformers-explained-visually-part-2-how-it-works-step-by-step-b49fa4a64f34/)
+  * [Part3](https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853/)
+### AI Agent
+- [Prompt Engineering Interview Questions](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)
+- [LLM RAG Interview Questions](https://github.com/jxzhangjhu/Awesome-LLM-RAG?tab=readme-ov-file)
+- [Awesome genAI guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+### Awesome GenAI Review, If you have more time ...
+- [AI/ML 30 Day Playbook](https://www.educatum.com/the-ai-ml-interview-playbook?p=1b355925845b81379a77e36b9875a226&pm=s)
+- [GenAI 5 Week by Hand](https://www.educatum.com/genai-by-hand-llm-study-plan)
+### Fast Paper Summary Tool
+- [NotebookLM](https://notebooklm.google/) - Google's AI-powered notebook that summarizes and organizes research papers
+- [Zotero + AI plugins](https://www.zotero.org/) - Reference manager with AI plugins for summarizing and annotating papers
 
-- **[Machine Learning System Design Interview](https://www.amazon.com/Machine-Learning-System-Design-Interview/dp/1736049127/)** (ByteByteGo, 2021)
-  * Comprehensive framework for scalable production ML architectures
-  * Essential reference material with supplementary resource integration
 
-- **[Mock ML Design](https://www.meetapro.com/explore?q=machine&utm_source=redditexperienceddevs)**: Expert feedback sessions
+## 📝 Resume Preparation using AI
+- [Resume Editing](https://bugfree.ai/resume)
+  * Highlight keywords matching with job descriptions.
+##  🎬 Mock Interview
+- [HelloInterview](https://www.hellointerview.com/) 
+- [ML Design Mock](https://www.meetapro.com/explore?q=machine&utm_source=redditexperienceddevs)
 
-- **[Evidently AI's 500 ML Design Cases](https://www.evidentlyai.com/ml-system-design)**
-  * Production-grade ML and LLM system architectures with implementation considerations
 
-## 📚 Section III: Technical ML/AI Foundations
-
-### Machine Learning Fundamentals
-- **[Comprehensive ML Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/)**
-- **[Implementation-Focused Interview Questions](https://www.educatum.com/ai-ml-interview-questions-classic)**
-- **[MLE Concept Flashcards](https://github.com/b7leung/MLE-Flashcards)**
-
-### Data Science
-- **[Probability Reference Materials](https://github.com/wzchen/probability_cheatsheet)**
-- **[Data Science Technical Framework](https://github.com/khanhnamle1994/cracking-the-data-science-interview?tab=readme-ov-file)**
-- **[Ace the Data Science Interview](https://qualified.one/books/ace-the-data-science-interview/)** (Singh & Huo, 2021)
-  * Comprehensive technical and behavioral preparation methodology
-
-- **Experimentation & Statistical Inference**
-  * **[A/B Testing Methodology](https://medium.com/data-science/a-summary-of-udacity-a-b-testing-course-9ecc32dedbb1)**
-  * **[Advanced Experimentation Research](https://github.com/jgamper/experimentation-resources)**
-
-- **Causality Framework**
-  * **[Causal Inference Research Collection](https://github.com/matthewvowels1/Awesome-Causal-Inference)**
-  * **[Foundational Causal Concepts](https://www.youtube.com/watch?v=Od6oAz1Op2k&list=PLTl9hO2Oobd-fjdLwLiIm5jbAkTv2bBPE)**
-
-### Large Language Models & Generative AI
-- **[LLM Technical Assessment Preparation](https://www.educatum.com/llm-and-genai-advanced-interview-questions)**
-- **[Hands-On LLM Implementation](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)**
-- **[AI Concept Reinforcement](https://aiflashcards.com/)**
-
-#### Transformer Architecture
-- **[Mathematical Foundations of Transformers](https://blog.eleuther.ai/transformer-math/)**
-- **[Transformer from Scrath](https://github.com/jsbaan/transformer-from-scratch)**
-- **Transformer Architecture Visualization Series**
-  * **[Part I: Functional Overview](https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452/)**
-  * **[Part II: Operational Mechanics](https://towardsdatascience.com/transformers-explained-visually-part-2-how-it-works-step-by-step-b49fa4a64f34/)**
-  * **[Part III: Multi-Head Attention Analysis](https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853/)**
-
-### AI Agent Systems
-- **[Prompt Engineering Technical Guide](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)**
-- **[Retrieval-Augmented Generation Systems](https://github.com/jxzhangjhu/Awesome-LLM-RAG?tab=readme-ov-file)**
-- **[Comprehensive GenAI Architecture Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)**
-
-### Advanced GenAI Preparation (Extended Study)
-- **[30-Day AI/ML Mastery Program](https://www.educatum.com/the-ai-ml-interview-playbook?p=1b355925845b81379a77e36b9875a226&pm=s)**
-- **[GenAI by Hand - 5 Week Study Plan](https://www.educatum.com/genai-by-hand-llm-study-plan)**
-
-### Research Acceleration Tools
-- **[NotebookLM](https://notebooklm.google/)**: AI-powered research synthesis platform
-- **[Zotero with AI Integration](https://www.zotero.org/)**: Advanced research management system
-
-## 📝 Professional Documentation Optimization
-- **[AI-Enhanced Resume Development](https://bugfree.ai/resume)**
-  * Algorithmic keyword alignment with position specifications
-
-## 🎬 Interview Mock & Assessment
-- **[HelloInterview Platform](https://www.hellointerview.com/)**
-- **[ML System Design Evaluation](https://www.meetapro.com/explore?q=machine&utm_source=redditexperienceddevs)**
 
 
 ## 🗓️ 3-Month Interview Preparation Timeline
