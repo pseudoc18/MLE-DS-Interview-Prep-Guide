@@ -2,7 +2,9 @@
 
 ## 📋 Strategic Overview
 
-This comprehensive preparation framework is designed for Machine Learning Engineers, ML Scientists, and Applied/Data Scientists aiming to excel in technical interviews. The structured approach addresses four critical assessment areas: Algorithmic Coding, Machine Learning System Design, Technical ML/AI Concepts, and Professional Behavioral Assessment.
+This comprehensive THREE month preparation framework is designed for Machine Learning Engineers, ML Scientists, and Applied/Data Scientists aiming to excel in technical interviews. The structured approach addresses four critical assessment areas: Algorithmic Coding, Machine Learning System Design, Technical ML/AI Concepts, and Professional Behavioral Assessment.
+
+![alt text](3_month_interview_process.png?raw=true)
 
 ### Optimization Strategy
 
