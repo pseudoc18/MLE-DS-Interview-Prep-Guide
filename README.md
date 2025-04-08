@@ -1,5 +1,33 @@
 # Machine Learning GenAI Interview Preparation Guide
 
+## Contents
+
+- [📋 Strategic Overview](#-strategic-overview)
+  - [Optimization Strategy](#optimization-strategy)
+- [💻 Part 1: Coding](#-part-1-coding)
+  - [Data Structure and Algorithms Problems](#data-structure-and-algorithms-problems)
+    - [Concepts Review](#concepts-review)
+    - [Coding Questions List](#coding-questions-list)
+  - [Machine Learning Coding](#machine-learning-coding)
+- [🧠 Part 2: Machine Learning Design](#-part-2-machine-learning-design)
+- [📚 Part 3: ML/Deep Learning/genAI Concepts](#-part-3-mldeep-learninggenai-concepts)
+  - [Machine Learning](#machine-learning)
+  - [Data Science](#data-science)
+  - [LLM/genAI](#llmgenai)
+    - [Transformer](#transformer)
+  - [AI Agent](#ai-agent)
+  - [Awesome GenAI Review](#awesome-genai-review-if-you-have-more-time-)
+  - [Fast Paper Summary Tool](#fast-paper-summary-tool)
+- [📝 Resume Preparation using AI](#-resume-preparation-using-ai)
+- [🎬 Mock Interview](#-mock-interview)
+- [🗓️ 3-Month Interview Preparation Timeline](#-3-month-interview-preparation-timeline)
+  - [Month 1: Foundations](#month-1-foundations)
+  - [Month 2: Building & Applying](#month-2-building--applying)
+  - [Month 3: Specialization & Interviews](#month-3-specialization--interviews)
+  - [Key Milestones](#key-milestones)
+  - [Behavioral Interview Preparation](#behavioral-interview-preparation)
+
+
 ## 📋 Strategic Overview
 
 This comprehensive THREE month preparation framework is designed for Machine Learning Engineers, ML Scientists, and Applied/Data Scientists aiming to excel in technical interviews. The structured approach addresses four critical assessment areas: Algorithmic Coding, Machine Learning System Design, Technical ML/AI Concepts, and Professional Behavioral Assessment.
