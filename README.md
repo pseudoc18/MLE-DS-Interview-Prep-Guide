@@ -142,7 +142,7 @@ This evidence-based preparation timeline delivers:
 
 | Week | Focus Area | Tasks | Status |
 |------|------------|-------|--------|
-| 1-2 | Data Structures & Algorithms | • Review arrays & strings<br>• Review linked lists<br>• Review stacks & queues<br>• Start NeetCode 150: [Two Sum](https://leetcode.com/problems/two-sum/), [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/), [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 📅 Scheduled |
+| 1-2 | Data Structures & Algorithms | • Review arrays & strings<br>• Review linked lists<br>• Review stacks & queues<br>• Start NeetCode 150: [Two Sum](https://leetcode.com/problems/two-sum/), [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/), [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | ⏳ In Progress |
 | 1-2 | ML Coding | • Basic NumPy & Pandas exercises<br>• Implement data preprocessing functions<br>• Practice ML algorithms implementation | 📅 Scheduled |
 | 3-4 | Data Structures & Algorithms | • Review trees & graphs: [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)<br>• Review dynamic programming: [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)<br>• Continue NeetCode 150: [Coin Change](https://leetcode.com/problems/coin-change/) | 📅 Scheduled |
 | 3-4 | ML Coding | • Implement models from scratch (linear regression, decision trees)<br>• Feature engineering practice<br>• Cross-validation implementation | 📅 Scheduled |
